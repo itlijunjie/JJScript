@@ -21,7 +21,7 @@ echo $a
 fir b ./ -w -S PerfectDay -p -T f0bab9e48ac73ad5edeff7713b0b6b60 -C Release -c $a CODE_SIGN_IDENTITY="iPhone Developer" PROVISIONING_PROFILE=85b1de43-eead -o ./fir_build_ipa/$out_path
 
 #使用debug配置打包发布的时候别忘了加ONLY_ACTIVE_ARCH=NO，不知道为什么请自行补脑
-fir b ./ -w -S PerfectDay -p -T f0bab9e48ac73ad5edeff7713b0b6b60 -C Release -c $a CODE_SIGN_IDENTITY="iPhone Developer" PROVISIONING_PROFILE=85b1de43-eead ONLY_ACTIVE_ARCH=NO -o ./fir_build_ipa/$out_path
+#fir b ./ -w -S PerfectDay -p -T f0bab9e48ac73ad5edeff7713b0b6b60 -C Release -c $a CODE_SIGN_IDENTITY="iPhone Developer" PROVISIONING_PROFILE=85b1de43-eead ONLY_ACTIVE_ARCH=NO -o ./fir_build_ipa/$out_path
 #    for a in $*             ##存在话，取参数放入a中循环
 #    do
 #        b=`echo $a|tr [a-z] [A-Z]`    ###将a改成大写
