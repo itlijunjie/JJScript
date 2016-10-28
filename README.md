@@ -30,6 +30,11 @@ ck.pem为结果文件
 <pre>
 生成通用的库
 </pre>
-
 ##decode-apk.sh（利用apktool+dex2jar+jd-gui反编译apk脚本）
 <img src="https://raw.githubusercontent.com/itlijunjie/JJScript/master/image/apk_decode_dir.png" width="200px">
+## 联系方式
+QQ：470058952</br>
+我的微信：</br>
+<img src="https://raw.githubusercontent.com/itlijunjie/image/master/微信.png" width="200px">
+##License
+JJScript is under [WTFPL](http://www.wtfpl.net/). You can do what the fuck you want with JJScript. See [LICENSE](LICENSE) file for more info.
