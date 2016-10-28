@@ -26,5 +26,10 @@ PROVISIONING_PROFILE = 5818b1c5
 <pre>
 ck.pem为结果文件
 </pre>
+##ExportScript.sh（制作通用的.a或者Framework）
+<pre>
+生成通用的库
+</pre>
+
 ##decode-apk.sh（利用apktool+dex2jar+jd-gui反编译apk脚本）
 <img src="https://raw.githubusercontent.com/itlijunjie/JJScript/master/image/apk_decode_dir.png" width="200px">
