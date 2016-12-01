@@ -28,4 +28,3 @@ fir b ./ -w -S PerfectDay -p -T f0bab9e48ac73ad5edeff7713b0b6b60 -C Release -c $
 #        echo "CC"$b                       ##拼接成功CCA
 #    done
 fi
-

@@ -26,6 +26,14 @@ PROVISIONING_PROFILE = 5818b1c5
 <pre>
 ck.pem为结果文件
 </pre>
+##xcodebuild&xcrun.sh
+<pre>
+使用xcodebuild和xcrun打包生成ipa，并上传到fir
+</pre>
+##xcodebuild_dev.sh
+<pre>
+使用新的打包命令执行打包
+<pre/>
 ##ExportScript.sh（制作通用的.a或者Framework）
 <pre>
 生成通用的库
