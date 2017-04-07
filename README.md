@@ -32,7 +32,7 @@ ck.pem为结果文件
 </pre>
 ## xcodebuild_dev.sh
 <pre>
-使用新的打包命令执行打包
+使用新的打包命令执行打包，需要使用系统自带的ruby环境
 </pre>
 ## ExportScript.sh（制作通用的.a或者Framework）
 <pre>
